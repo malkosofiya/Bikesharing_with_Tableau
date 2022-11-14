@@ -4,11 +4,11 @@ Click here to view the dashboard on Tableau: [Link to NYC Bikeshare Dashboard](h
 
 ## Overview of the analysis
 
-The purpose of this analysis is to create robust visualizations that help better understand and explore bikesharing program in NYC. 
+The purpose of this analysis is to create robust visualizations that help better understand and explore the bikesharing program in NYC. 
 
 ## Results
 
-Using the bikesharing from August 2019 the following 7 visualizatiobns were built: 
+Using the bikesharing data from August 2019 the following 7 visualizatiobns were built: 
 
 1) A map showing the top starting locations for bikeshare. 
 ![Screen Shot 2022-11-13 at 6 17 45 PM](https://user-images.githubusercontent.com/110862261/201552318-86d1ca40-5ff9-4a31-bf8a-451ff888ac02.png)
@@ -30,3 +30,10 @@ Using the bikesharing from August 2019 the following 7 visualizatiobns were buil
 
 7) A heatmap showing the number of bike trips broken down by gender for each day of the week by each Usertype.
 ![Screen Shot 2022-11-13 at 6 23 53 PM](https://user-images.githubusercontent.com/110862261/201552686-6656b87d-9b71-475d-be29-d991479d1653.png)
+
+## Summary
+
+In August 2019, the NYC bikesharing program had 2.3 million users, 81% of which were subscribers. The most popular starting locations were in the central areas of the city, such as Manhattan, with Pershing Square North station being the most used. Most rides were taken by male users during the morning and evening rush hours, peaking at 5PM. Additionaly, it is important to note that the majority of trips were under 20 minutes. All of these factors suggest that Citi Bike services are mainly used as an alternative to short public transportation trips for local commuters. 
+
+In order to carry out a more comprehensive analysis, it is crucial to determine bikesharing performance trends around the year, not only August. 
+Furthermore, it would be beneficial to include weather data in future analysis to understand it's influence on the number of bike users.   
